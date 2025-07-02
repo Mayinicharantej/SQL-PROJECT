@@ -71,9 +71,4 @@ To replicate this analysis, follow these steps:
 4.  **Run the Queries:**
     * Execute the queries from the `pizza_sales_analysis.sql` file in your preferred SQL client to perform the analysis.
 
-Created by **[Your Name]**
-
-- **LinkedIn:** [YOUR_LINKEDIN_PROFILE_URL]
-- **GitHub:** [YOUR_GITHUB_PROFILE_URL]
-
-Feel free to reach out if you have any questions or would like to discuss the project further!
+Created by **[MAYINI CHARAN]**
